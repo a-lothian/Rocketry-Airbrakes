@@ -1,0 +1,8 @@
+.vscode/
+.venv/
+uv.lock
+build/
+*.pyd
+*.so
+*.egg-info
+nul
