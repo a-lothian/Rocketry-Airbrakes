@@ -2,7 +2,9 @@
 .venv/
 uv.lock
 build/
+__pycache__/
 *.pyd
 *.so
+*.pyc
 *.egg-info
 nul
